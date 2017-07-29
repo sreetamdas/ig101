@@ -1,0 +1,63 @@
+body {
+    font-family: 'Josefin Slab', sans-serif;
+    font-weight: 100;
+}
+
+.black {
+    color: black !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+.text-center {
+    text-align: center;
+}
+
+.special {
+    background-color: yellow;
+    color: black;
+    border: 0.2em solid yellow;
+}
+
+.special a{
+    color: black !important;
+}
+
+.special a:hover{
+    color: black !important;
+    text-decoration: none;
+}
+
+.fullscreen {
+    min-height: 100%;
+}
+
+#heart {
+    color: red;
+}
+
+.links-header a:hover{
+    text-decoration: none !important;
+}
+
+.links-header a{
+    margin: 40px;
+    color: black;
+}
+
+.bg-white {
+    background-color: transparent;
+}
+
+#header {
+    margin-bottom: 10px;
+}
+
+#coffee {
+    color: #6f4e37;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
